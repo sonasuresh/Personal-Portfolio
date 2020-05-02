@@ -33,6 +33,7 @@ export class experiences extends Component {
                     TRIMP - Tricog Inventory Management Portal
 						</b>{' '}
                   &nbsp; for Managing hardware devices produced by the
+	           company, providing OTA Updates, Device Configuration,
                   etc."
 				</p>
                 <p className="align-items-center mt-5 w-100">
