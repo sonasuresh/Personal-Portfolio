@@ -94,7 +94,7 @@ export class experiences extends Component {
                 <h3 className="card-title">{"Revature,Chennai"}</h3>
                 <h6 className="card-text text-dark">{"Full Stack Web Developer"}</h6>
                 <p className="card-text text-dark text-align-justify">
-                  Worked on a product as a full stack Developer.
+                  Working on a product Revature Pro-A Training platform for students.
 				</p>
                 <p className="align-items-center mt-1 w-100">
                   <span className="ml-2 text-dark">
