@@ -77,6 +77,35 @@ export class experiences extends Component {
               </div>
             </div>
           </div>
+	   <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-3 text-center text-white">
+          <div className="card">
+              <img
+                src={"https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/revaturelogo/original.jpg?1560210112"}
+                className="card-img-top mt-3"
+                alt="tricog"
+                style={{
+                  width: '50%',
+                  alignSelf: 'center',
+                  maxHeight: '90px',
+                  maxWidth: '90px'
+                }}
+              />
+              <div className="card-body">
+                <h3 className="card-title">{"Revature,Chennai"}</h3>
+                <h6 className="card-text text-dark">{"Full Stack Web Developer"}</h6>
+                <p className="card-text text-dark text-align-justify">
+                  Worked on a product as a full stack Developer.
+				</p>
+                <p className="align-items-center mt-1 w-100">
+                  <span className="ml-2 text-dark">
+                    <b className="text-dark">From </b> {"Jan 2020"}{' '}
+                    <b className="text-dark">To </b> {"Present"}
+                  </span>
+                </p>
+              </div>
+            </div>
+          </div>
+  
           <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-3 text-center text-white">
           <div className="card">
               <img
