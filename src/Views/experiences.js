@@ -14,7 +14,7 @@ export class experiences extends Component {
           <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mt-3 text-center text-white">
             <div className="card">
               <img
-                src={"https://www.tricog.com/images/logo.png"}
+                src={"https://www.tricog.com/wp-content/uploads/2019/12/logo.png"}
                 className="card-img-top mt-3"
                 alt="tricog"
                 style={{
