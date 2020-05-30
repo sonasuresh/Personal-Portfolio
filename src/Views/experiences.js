@@ -99,7 +99,7 @@ export class experiences extends Component {
                 <p className="align-items-center mt-1 w-100">
                   <span className="ml-2 text-dark">
                     <b className="text-dark">From </b> {"Jan 2020"}{' '}
-                    <b className="text-dark">To </b> {"Present"}
+                    <b className="text-dark">To </b> {"May 2020"}
                   </span>
                 </p>
               </div>
