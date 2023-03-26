@@ -37,7 +37,7 @@ export class contact extends Component {
                       </div>
                       <div className="col">
                        <dt><b>Location</b></dt>
-                        <dd style={{marginBottom: '0px'}}>Madurai,India</dd>
+                        <dd style={{marginBottom: '0px'}}>Bangalore,India</dd>
                       </div>
                     </div>
                   </div> 
