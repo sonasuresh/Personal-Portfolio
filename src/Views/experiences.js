@@ -19,7 +19,7 @@ export class experiences extends Component {
                   "https://portcast.io/wp-content/uploads/2020/03/portcast_logo2_x1.png"
                 }
                 className="card-img-top mt-3"
-                alt="tricog"
+                alt="Portcast"
                 style={{
                   width: "80%",
                   alignSelf: "center",
@@ -53,7 +53,7 @@ export class experiences extends Component {
                   "https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/revaturelogo/original.jpg?1560210112"
                 }
                 className="card-img-top mt-3"
-                alt="tricog"
+                alt="Revature"
                 style={{
                   width: "50%",
                   alignSelf: "center",
@@ -124,7 +124,7 @@ export class experiences extends Component {
               <img
                 src={"http://sqenta.com/wp-content/uploads/2018/12/Website.png"}
                 className="card-img-top mt-3"
-                alt="tricog"
+                alt="Sqenta"
                 style={{
                   width: "80%",
                   alignSelf: "center",
@@ -163,7 +163,7 @@ export class experiences extends Component {
                   "https://upload.wikimedia.org/wikipedia/en/8/87/Mepco_Schlenk_Engineering_College_logo.png"
                 }
                 className="card-img-top mt-3"
-                alt="tricog"
+                alt="Mepco"
                 style={{
                   width: "50%",
                   alignSelf: "center",
